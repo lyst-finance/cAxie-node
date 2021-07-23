@@ -1,0 +1,17 @@
+{
+  "name": "ronin-node",
+  "version": "1.0.0",
+  "description": "cAxie Ronin node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Melkonian",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethereum-block-by-date": "^1.4.0",
+    "ethers": "^5.4.1",
+    "mongodb": "^4.0.1"
+  }
+}
